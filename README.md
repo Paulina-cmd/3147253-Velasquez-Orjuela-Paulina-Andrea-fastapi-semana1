@@ -11,7 +11,7 @@ Esta semana aprendí a crear y ejecutar una API básica con FastAPI. Me pareció
 
 ## 📸 Screenshot de la API funcionando
 
-![API funcionando](./screenshoot.png)
+![API funcionando](./screenshot.png)
 
 ## ▶️ Comandos para ejecutar la aplicación
 
