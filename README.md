@@ -9,7 +9,13 @@ Este proyecto contiene mi primera API usando FastAPI. Incluye un endpoint de bie
 # REFLECCION
 Esta semana aprendí a crear y ejecutar una API básica con FastAPI. Me pareció muy práctico ver la documentación automática en /docs y entender cómo se construye un endpoint. Me siento más seguro/a para seguir explorando el desarrollo backend.
 
+## 📸 Screenshot de la API funcionando
+
+![API funcionando](./screenshoot.png)
+
 ## ▶️ Comandos para ejecutar la aplicación
 
 ```bash
 uvicorn main:app --reload
+
+
