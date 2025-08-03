@@ -1,6 +1,6 @@
 # 3147253-Velasquez-Orjuela-Paulina-Andrea-fastapi-semana1
 
-# 3147253-Velasquez-Orjuela-Paulina-Andrea-fastapi-semana1
+
 
 # Semana 1 - FastAPI
 
