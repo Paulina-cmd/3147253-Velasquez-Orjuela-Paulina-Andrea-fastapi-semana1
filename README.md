@@ -6,7 +6,7 @@
 
 Este proyecto contiene mi primera API usando FastAPI. Incluye un endpoint de bienvenida y un segundo endpoint personalizado para saludar.
 
-# REFLECCION
+# REFLEXION
 Esta semana aprendí a crear y ejecutar una API básica con FastAPI. Me pareció muy práctico ver la documentación automática en /docs y entender cómo se construye un endpoint. Me siento más seguro/a para seguir explorando el desarrollo backend.
 
 ## 📸 Screenshot de la API funcionando
